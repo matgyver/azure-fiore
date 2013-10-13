@@ -1,0 +1,1 @@
+These files contain the files that pertain to the Android program that can read the data from the necklace
